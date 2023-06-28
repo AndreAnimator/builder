@@ -1,0 +1,7 @@
+enum SanduicheType{
+    HAMBURGUER="HAMBURGUER",
+    HOTDOG="HOTDOG",
+    MISTOQUENTE="MISTOQUENTE",
+    SANDUICHENATURAL="SANDUICHENATURAL"
+}
+export default SanduicheType;
